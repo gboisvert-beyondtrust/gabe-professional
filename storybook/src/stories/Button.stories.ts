@@ -52,10 +52,3 @@ export const Small: Story = {
     label: 'Button',
   },
 };
-
-export const ModernCarousel: Story = {
-  args: {
-    primary: false,
-    label: "Button"
-  }
-};
